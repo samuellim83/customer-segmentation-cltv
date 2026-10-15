@@ -5,7 +5,7 @@ My **Master of Data Science dissertation** (HELP University, 2023), rebuilt as a
 > *An AI-Based Approach of Customer Data Segmentation Based on K-Means Clustering Algorithms*
 > Industry partner: a Malaysian health-products retailer (name withheld under a non-disclosure agreement).
 
-📄 **[Read the 21-page summary (PDF)](Dissertation_Summary_Customer_Segmentation_CLTV.pdf)** · 📓 **[Open the notebook](customer_segmentation_rfm_kmeans_cltv.ipynb)**
+📄 **[Read the 21-page summary (PDF)](Dissertation_Summary_Customer_Segmentation_CLTV.pdf)** · 📓 **[Open the notebook](customer_segmentation_rfm_kmeans_cltv.ipynb)** ([backup viewer on nbviewer](https://nbviewer.org/github/samuellim83/customer-segmentation-cltv/blob/main/customer_segmentation_rfm_kmeans_cltv.ipynb) if GitHub is slow to load it)
 
 ---
 
